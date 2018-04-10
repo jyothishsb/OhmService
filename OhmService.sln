@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmService", "OhmService\OhmService.csproj", "{1B6E71B3-FD5B-429C-953F-9C624783B912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmService.Tests", "OhmService.Tests\OhmService.Tests.csproj", "{316C43B8-BF40-49ED-B02B-AB0FA579E16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6E71B3-FD5B-429C-953F-9C624783B912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E71B3-FD5B-429C-953F-9C624783B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E71B3-FD5B-429C-953F-9C624783B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E71B3-FD5B-429C-953F-9C624783B912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316C43B8-BF40-49ED-B02B-AB0FA579E16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316C43B8-BF40-49ED-B02B-AB0FA579E16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316C43B8-BF40-49ED-B02B-AB0FA579E16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316C43B8-BF40-49ED-B02B-AB0FA579E16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
